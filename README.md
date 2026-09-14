@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Engineering Student | Computational Mechanics | Scientific Machine Learning
 
-I am an engineering student interested in **computational mechanics, finite element methods, structural dynamics, and scientific machine learning**.
+I am an engineering student interested in **computational mechanics, finite element methods, and scientific machine learning**.
 
 My current work focuses on applying numerical and machine-learning-based approaches to problems in structural mechanics.
 
@@ -30,20 +30,17 @@ My current work focuses on applying numerical and machine-learning-based approac
 
 - Computational Mechanics
 - Finite Element Methods (FEM)
-- Structural Mechanics
-- Structural Dynamics
+- Multibody Dynamics
 - Physics-Informed Neural Networks (PINNs)
 - Scientific Machine Learning
 - Numerical Methods
-- [Add another research interest]
-
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔬 Modal Rattle Analysis & Stiffness-Based Mitigation
 
-An independent computational study based on concepts developed during my previous engineering research experience.
+An independent computational study based on concepts developed during my previous research internship.
 
 The project develops a mathematical formulation for **modal transient analysis**, identifies dominant modal contributions to structural vibration, and demonstrates a stiffness-based approach for reducing the response using a canonical beam model.
 
@@ -69,7 +66,7 @@ The implementation is accompanied by validation examples and technical documenta
 
 ---
 
-### 🤖 Physics-Informed Neural Networks for Structural Mechanics
+### 🤖 Physics-Informed Neural Networks for solid mechanics
 
 Research project investigating the use of **Physics-Informed Neural Networks (PINNs)** for solving structural mechanics problems.
 
@@ -79,21 +76,6 @@ The project explores the incorporation of governing physical equations and bound
 `PINNs` `Scientific Machine Learning` `Deep Learning` `Structural Mechanics` `PyTorch`
 
 [View Repository →](YOUR_REPOSITORY_LINK)
-
----
-
-## 🧮 Technical Interests
-
-My broader technical interests include:
-
-- Finite element formulation and implementation
-- Numerical solution of differential equations
-- Nonlinear and dynamic structural analysis
-- Modal analysis and vibration
-- Physics-informed machine learning
-- Neural-network-based computational mechanics
-- Numerical optimization
-- Automatic differentiation
 
 ---
 
@@ -139,13 +121,13 @@ Topics include:
 
 ## 🎓 Education
 
-**[Degree / Master's Program]**  
-[University Name]  
-[Year – Present]
+**[M.Tech / Master's]**  
+[IIT Madras]  
+[Aug 2025 – Present]
 
-**[Bachelor's Degree]**  
-[University Name]  
-[Year – Year]
+**[B.E.(SW) / Bachelor's]**  
+[PSG College of Technology]  
+[2018 – 2023]
 
 ---
 
@@ -186,14 +168,11 @@ Worked on computational analysis of structural vibration and rattle, including:
 
 ## 📫 Contact
 
-**Email:** [your academic/professional email]
+**Email:** [me25m086@smail.iitm.ac.in or kaushikprakash010@gmail.com]
 
 **LinkedIn:** [YOUR_LINKEDIN_LINK]
-
-**Google Scholar:** [YOUR_GOOGLE_SCHOLAR_LINK]
 
 ---
 
 ### Interests
-
 I am interested in opportunities related to **PhD research in computational mechanics, scientific machine learning, numerical methods, and related areas**.
