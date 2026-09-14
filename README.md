@@ -62,7 +62,7 @@ Research project investigating **Physics-Informed Neural Networks (PINNs)** for 
 `Python` `MATLAB` `C/C++`
 
 **Machine Learning:**  
-`PyTorch`
+`PyTorch` `Jax`
 
 **Engineering / Simulation:**  
 `Ansys` `Abaqus`
