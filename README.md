@@ -1,25 +1,8 @@
-<!--
-**Kaaaizoku/Kaaaizoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Kaushik 👋
 
 ### Engineering Student | Computational Mechanics | Scientific Machine Learning
 
-I am an engineering student interested in **computational mechanics, finite element methods, and scientific machine learning**.
-
-My current work focuses on applying numerical and machine-learning-based approaches to problems in structural mechanics.
+I am an M.Tech student in IIT Madras, interested in **computational mechanics, finite element methods, and scientific machine learning**.
 
 ---
 
@@ -31,6 +14,7 @@ My current work focuses on applying numerical and machine-learning-based approac
 - Physics-Informed Neural Networks (PINNs)
 - Scientific Machine Learning
 - Numerical Methods
+
 ---
 
 ## 🚀 Featured Projects
@@ -39,10 +23,10 @@ My current work focuses on applying numerical and machine-learning-based approac
 
 An independent computational study based on concepts developed during my previous research internship.
 
-The project develops a mathematical formulation for **modal transient analysis**, identifies dominant modal contributions to structural vibration, and demonstrates a stiffness-based approach for reducing the response using a canonical beam model.
+Develops a mathematical formulation for **modal transient analysis**, identifies dominant modal contributions to structural vibration, and demonstrates stiffness-based vibration mitigation using a canonical beam model.
 
 **Topics:**  
-`Structural Dynamics` `Modal Analysis` `FEM` `Numerical Methods` `Python`
+`Structural Dynamics` `Modal Analysis` `FEM` `Python`
 
 [View Repository →](YOUR_REPOSITORY_LINK)
 
@@ -50,27 +34,23 @@ The project develops a mathematical formulation for **modal transient analysis**
 
 ### 🏗️ 2D Structural Analysis Solver
 
-Development of a finite-element-based solver for **2D truss and frame structures**, including structural formulation, stiffness matrix assembly, boundary-condition handling, solution of the global system, and post-processing.
+A finite-element-based solver for **2D truss and frame structures**, including stiffness matrix assembly, boundary-condition handling, solution of the global system, and post-processing.
 
-The implementation is accompanied by validation examples and technical documentation.
+The repository documents the formulation, methodology, validation, and capabilities of the software.
 
 **Topics:**  
-`Finite Element Methods` `Structural Analysis` `Numerical Methods` `Python`
+`FEM` `Structural Analysis` `Python`
 
 [View Repository →](YOUR_REPOSITORY_LINK)
 
-> Note: The solver implementation itself is not publicly released. The repository documents the formulation, methodology, validation, and capabilities of the software.
-
 ---
 
-### 🤖 Physics-Informed Neural Networks for solid mechanics
+### 🤖 Physics-Informed Neural Networks for Solid Mechanics
 
-Research project investigating the use of **Physics-Informed Neural Networks (PINNs)** for solving structural mechanics problems.
-
-The project explores the incorporation of governing physical equations and boundary conditions into neural-network training and compares the resulting solutions with conventional numerical approaches.
+Research project investigating **Physics-Informed Neural Networks (PINNs)** for solving solid mechanics problems using governing physical equations and boundary conditions.
 
 **Topics:**  
-`PINNs` `Scientific Machine Learning` `Deep Learning` `Structural Mechanics` `PyTorch`
+`PINNs` `Scientific ML` `Deep Learning` `Solid Mechanics` `PyTorch`
 
 [View Repository →](YOUR_REPOSITORY_LINK)
 
@@ -78,98 +58,24 @@ The project explores the incorporation of governing physical equations and bound
 
 ## 🛠️ Tools & Technologies
 
-**Programming**
+**Programming:**  
+`Python` `MATLAB` `C/C++`
 
-`Python` `MATLAB` `C/C++` `[Other]`
+**Machine Learning:**  
+`PyTorch`
 
-**Scientific Computing**
-
-`NumPy` `SciPy` `Matplotlib`
-
-**Machine Learning**
-
-`PyTorch` `[Other]`
-
-**Engineering / Simulation**
-
-`Finite Element Methods` `Structural Analysis` `Numerical Methods`
-
-**Development**
-
-`Git` `GitHub` `[Other]`
-
----
-
-## 📚 Research & Technical Notes
-
-I also maintain technical notes and derivations on topics related to my research interests.
-
-Topics include:
-
-- [Physics-Informed Neural Networks](LINK)
-- [Burgers' Equation](LINK)
-- [L-BFGS Optimization](LINK)
-- [Radial Basis Functions](LINK)
-- [Hyperelasticity](LINK)
-- [Finite Element Methods](LINK)
-- [Other topic](LINK)
-
----
-
-## 🎓 Education
-
-**[M.Tech / Master's]**  
-[IIT Madras]  
-[Aug 2025 – Present]
-
-**[B.E.(SW) / Bachelor's]**  
-[PSG College of Technology]  
-[2018 – 2023]
-
----
-
-## 🔬 Current Research
-
-**[Title of your current master's project]**
-
-Currently investigating:
-
-> [Write 1–3 sentences explaining your current research problem.]
-
-Key areas:
-
-`PINNs` `Structural Mechanics` `Computational Mechanics` `[Other]`
-
----
-
-## 💼 Research Experience
-
-### [Internship / Research Position]
-**[Organization / University]** — [Year]
-
-Worked on computational analysis of structural vibration and rattle, including:
-
-- Finite element formulation
-- Modal analysis
-- Modal transient analysis
-- Identification of dominant modal contributions
-- Stiffness-based vibration mitigation
+**Engineering / Simulation:**  
+`Ansys` `Abaqus`
 
 ---
 
 ## 📄 CV
 
-📄 [View my CV](YOUR_CV_LINK)
+[View my CV →](YOUR_CV_LINK)
 
 ---
 
 ## 📫 Contact
 
-**Email:** [me25m086@smail.iitm.ac.in or kaushikprakash010@gmail.com]
-
+**Email:** me25m086@smail.iitm.ac.in  
 **LinkedIn:** [YOUR_LINKEDIN_LINK]
-
----
-
-### Interests
-I am interested in opportunities related to **PhD research in computational mechanics, scientific machine learning, numerical methods, and related areas**.
