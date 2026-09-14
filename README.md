@@ -8,8 +8,9 @@ I am an M.Tech student in IIT Madras, interested in **computational mechanics, f
 
 ## 🔬 Research Interests
 
-Computational Mechanics | Finite Element Methods (FEM) | Multibody Dynamics
-Physics-Informed Neural Networks (PINNs) | Scientific Machine Learning | Numerical Methods
+#### Computational Mechanics | Finite Element Methods (FEM) | Multibody Dynamics
+
+#### Physics-Informed Neural Networks (PINNs) | Scientific Machine Learning | Numerical Methods
 
 ---
 
