@@ -20,8 +20,6 @@ M.Tech student at **IIT Madras**, interested in **computational mechanics, finit
 Independent computational study based on concepts developed during my research internship.  
 Develops a **modal transient formulation**, identifies dominant modal contributions, and demonstrates stiffness-based vibration mitigation using a canonical beam model.
 
-`Structural Dynamics` `Modal Analysis` `FEM` `Python`
-
 [View Repository →](YOUR_REPOSITORY_LINK)
 
 ---
@@ -30,8 +28,6 @@ Develops a **modal transient formulation**, identifies dominant modal contributi
 
 Finite-element-based solver for **2D truss and frame structures**, including stiffness assembly, boundary conditions, global solution, and post-processing.
 
-`FEM` `Structural Analysis` `Python`
-
 [View Repository →](YOUR_REPOSITORY_LINK)
 
 ---
@@ -39,8 +35,6 @@ Finite-element-based solver for **2D truss and frame structures**, including sti
 ### 🤖 Physics-Informed Neural Networks for Solid Mechanics
 
 Research project investigating **PINNs for solid mechanics**, incorporating governing physical equations and boundary conditions into neural-network training.
-
-`PINNs` `Scientific ML` `Solid Mechanics` `PyTorch`
 
 [View Repository →](YOUR_REPOSITORY_LINK)
 
