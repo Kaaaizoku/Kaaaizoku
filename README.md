@@ -46,5 +46,6 @@ Research project investigating **PINNs for solid mechanics**, incorporating gove
 **Machine Learning:** `PyTorch` `JAX`  
 **Engineering / Simulation:** `Ansys` `Abaqus`
 
---
+---
+
 📄 [CV](YOUR_CV_LINK)  |  🔗 [LinkedIn](YOUR_LINKEDIN_LINK)  |  ✉️ [Email](mailto:kaushikprakash010@gmail.com)
