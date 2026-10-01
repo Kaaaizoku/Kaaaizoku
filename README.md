@@ -5,6 +5,8 @@
 M.Tech student at **IIT Madras**, interested in **computational mechanics, finite element methods, and scientific machine learning**.
 
 ---
+<img width="640" height="426" alt="Computer Chip Vulnerabilities" src="https://github.com/user-attachments/assets/0c1d070e-a716-4c5b-b61d-48232bbe4b5d" />
+
 
 ## 🔬 Research Interests
 
