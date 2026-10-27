@@ -1,4 +1,4 @@
-# Hi, I'm Kaushik 👋
+# Hi, I'm Kaushik
 
 ### Engineering Student | Computational Mechanics | Scientific Machine Learning
 
