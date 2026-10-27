@@ -48,4 +48,4 @@ Research project investigating **PINNs for solid mechanics**, incorporating gove
 
 ---
 
-📄 [CV](YOUR_CV_LINK)  |  🔗 [LinkedIn](YOUR_LINKEDIN_LINK)  |  ✉️ [Email](mailto:kaushikprakash010@gmail.com)
+📄 [CV](https://drive.google.com/file/d/1h9bDisQpyUpAQs928DTilc-iu1Uct-xP/view?usp=drive_link)  |  🔗 [LinkedIn](https://www.linkedin.com/in/kaushik-s-144b62197)  |  ✉️ [Email](mailto:kaushikprakash010@gmail.com)
